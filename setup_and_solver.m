@@ -5,7 +5,7 @@ clc; clear; close; close all;
 % Alkim GOKCEN, 04.09.2022, Universit of IZMIR KATIP CELEBI
 % alkim.gokcen@outlook.com
 
-% This mfile is to solve a contunious cost (performance) functional J(V)
+% This mfile is to solve a continuous cost (performance) functional J(V)
 % to find an optimal controller signal according to given plant!
 
 % Plant & controller are one dimensional cont. systems. (Will be
